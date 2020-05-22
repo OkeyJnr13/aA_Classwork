@@ -1,0 +1,13 @@
+.sections-nav {
+    display: flex;
+    justify-content: center;
+    border: 20px; 
+}
+
+ul li {
+    padding: 10px;
+}
+
+ul li:hover {
+    background-color: $light-gray;
+}
